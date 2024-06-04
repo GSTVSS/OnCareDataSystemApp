@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnCareDataSystemApp", "OnCareDataSystemApp\OnCareDataSystemApp.csproj", "{E02C20B7-92F1-4E57-8EBB-D9D26C702F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02C20B7-92F1-4E57-8EBB-D9D26C702F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02C20B7-92F1-4E57-8EBB-D9D26C702F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02C20B7-92F1-4E57-8EBB-D9D26C702F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02C20B7-92F1-4E57-8EBB-D9D26C702F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D092D9B8-1CD8-45A3-93E2-A9DD9FE27E76}
+	EndGlobalSection
+EndGlobal
